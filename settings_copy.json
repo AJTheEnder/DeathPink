@@ -1,0 +1,23 @@
+{
+    "redhat.telemetry.enabled": true,
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "workbench.editorAssociations": {
+        "*.ldb": "default"
+    },
+    "[txt]": {
+        "editor.defaultFormatter": "GlenBuktenica.unicode-substitutions"
+    },
+    "wolframLanguageNotebook.kernel.configurations": {
+        "wolframscript": {
+            "type": "local",
+            "command": "wolframscript",
+            "port": "49152-65535"
+        }
+    },
+    "editor.inlineSuggest.enabled": true
+}
